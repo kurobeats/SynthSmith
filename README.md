@@ -22,6 +22,8 @@ An AI-powered music generator web application that uses OpenRouter's API to crea
 ```bash
 git clone https://github.com/kurobeats/SynthSmith
 cd SynthSmith
+python -m venv venv
+source venv/bin/active
 ```
 
 2. Install dependencies:
